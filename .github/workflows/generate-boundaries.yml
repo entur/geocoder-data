@@ -1,0 +1,41 @@
+name: Generate Country Boundaries
+
+on:
+  push:
+    paths:
+      - 'country-boundaries.osm'
+  pull_request:
+    paths:
+      - 'country-boundaries.osm'
+  workflow_dispatch:
+
+jobs:
+  generate-ser:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up JDK
+        uses: actions/setup-java@v5
+        with:
+          distribution: 'temurin'
+          java-version: 25
+
+      - name: Clone countryboundaries generator
+        run: git clone https://github.com/westnordost/countryboundaries
+
+      - name: Build generator
+        working-directory: countryboundaries/generator
+        run: ../gradlew build
+
+      - name: Generate .ser file
+        run: |
+          java -jar countryboundaries/generator/build/libs/generator-all.jar \
+            country-boundaries.osm 60 30
+
+      - name: Upload .ser artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: country-boundaries
+          path: boundaries.ser
