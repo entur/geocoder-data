@@ -23,4 +23,4 @@ jobs:
         run: git clone --depth 1 https://github.com/NeTEx-CEN/NeTEx
 
       - name: Validate against NeTEx XSD
-        run: xmllint --schema NeTEx/xsd/netex_publication.xsd --noout festivals_netex_poi.xml
+        run: xmllint --schema NeTEx/xsd/NeTEx_publication.xsd --noout festivals_netex_poi.xml
