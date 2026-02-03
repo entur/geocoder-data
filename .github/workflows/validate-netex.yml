@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      - name: Install xmllint
+        run: sudo apt-get install -y libxml2-utils
+
       - name: Clone NeTEx schema
         run: git clone --depth 1 https://github.com/NeTEx-CEN/NeTEx
 
