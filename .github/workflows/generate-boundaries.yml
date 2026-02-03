@@ -27,11 +27,10 @@ jobs:
 
       - name: Build generator
         working-directory: countryboundaries/generator
-        run: ../gradlew build -x test
+        run: ../gradlew fatJar
 
       - name: Generate .ser file
         run: |
-          find countryboundaries
           java -jar countryboundaries/generator/build/libs/generator-all.jar \
             country-boundaries.osm 60 30
 
