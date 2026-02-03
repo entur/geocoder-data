@@ -16,20 +16,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Set up JDK
-        uses: actions/setup-java@v5
-        with:
-          distribution: 'temurin'
-          java-version: 21
+      - name: Clone NeTEx schema
+        run: git clone --depth 1 https://github.com/NeTEx-CEN/NeTEx
 
-      - name: Clone netex-validator-java
-        run: git clone https://github.com/entur/netex-validator-java
-
-      - name: Build validator
-        working-directory: netex-validator-java
-        run: ./mvnw -q package -DskipTests
-
-      - name: Validate NeTEx file
-        run: |
-          java -jar netex-validator-java/target/netex-validator-java-*-shaded.jar \
-            -v festivals_netex_poi.xml
+      - name: Validate against NeTEx XSD
+        run: xmllint --schema NeTEx/xsd/netex_publication.xsd --noout festivals_netex_poi.xml
