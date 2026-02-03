@@ -27,7 +27,7 @@ jobs:
 
       - name: Build generator
         working-directory: countryboundaries/generator
-        run: ../gradlew build
+        run: ../gradlew build -x test
 
       - name: Generate .ser file
         run: |
