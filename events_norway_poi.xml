@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <PublicationDelivery xmlns="http://www.netex.org.uk/netex" version="1.5">
-    <PublicationTimestamp>2026-02-03T14:19:27</PublicationTimestamp>
+    <PublicationTimestamp>2026-04-27T10:18:55</PublicationTimestamp>
     <ParticipantRef>ENT</ParticipantRef>
     <Description>Enturs markedsavdelings-NeTEx</Description>
     <dataObjects>
         <SiteFrame version="1" id="ENT:SiteFrame:1">
             <ValidBetween>
-                <FromDate>2026-02-03T14:19:27</FromDate>
+                <FromDate>2026-04-27T10:18:55</FromDate>
             </ValidBetween>
             <codespaces>
                 <Codespace id="ENT">
@@ -93,7 +93,7 @@
         <TopographicPlace id="ENT:TopographicPlace:4" version="1">
             <ValidBetween>
                 <FromDate>2026-02-03T13:59:00</FromDate>
-                <ToDate>2026-08-03T03:00:00</ToDate>
+                <ToDate>2026-08-03T05:00:00</ToDate>
             </ValidBetween>
             <keyList>
                 <KeyValue>
@@ -115,7 +115,7 @@
         </TopographicPlace>
         <TopographicPlace id="ENT:TopographicPlace:5" version="1">
             <ValidBetween>
-                <FromDate>2026-02-03T14:02:00</FromDate>
+                <FromDate>2026-05-01T06:02:00</FromDate>
                 <ToDate>2026-09-03T15:00:00</ToDate>
             </ValidBetween>
             <keyList>
@@ -133,29 +133,6 @@
             </Centroid>
             <Descriptor>
                 <Name>JAVAZONE 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:6" version="1">
-            <ValidBetween>
-                <FromDate>2026-02-03T14:07:00</FromDate>
-                <ToDate>2026-03-01T20:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>sports_event</Value>
-                </KeyValue>
-            </keyList>
-            <Name>BARNAS HOLMEKOLLDAG 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.6723595</Longitude>
-                    <Latitude>59.9646989</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>BARNAS HOLMEKOLLDAG 2026</Name>
             </Descriptor>
             <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
         </TopographicPlace>
@@ -225,6 +202,121 @@
             </Centroid>
             <Descriptor>
                 <Name>MGP-FINALEN Lillehammer</Name>
+            </Descriptor>
+            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+        </TopographicPlace>
+        <TopographicPlace id="ENT:TopographicPlace:10" version="1">
+            <ValidBetween>
+                <FromDate>2026-04-27T09:33:00</FromDate>
+                <ToDate>2026-08-03T05:00:00</ToDate>
+            </ValidBetween>
+            <keyList>
+                <KeyValue>
+                    <Key>custom_poi</Key>
+                    <Value>festival</Value>
+                </KeyValue>
+            </keyList>
+            <Name>Hovigs Hangar NOTODDEN BLUES FESTIVAL 2026</Name>
+            <Centroid>
+                <Location>
+                    <Longitude>9.2601979</Longitude>
+                    <Latitude>59.5589678</Latitude>
+                </Location>
+            </Centroid>
+            <Descriptor>
+                <Name>Hovigs Hangar NOTODDEN BLUES FESTIVAL 2026</Name>
+            </Descriptor>
+            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+        </TopographicPlace>
+        <TopographicPlace id="ENT:TopographicPlace:11" version="1">
+            <ValidBetween>
+                <FromDate>2026-04-27T09:34:00</FromDate>
+                <ToDate>2026-08-16T05:00:00</ToDate>
+            </ValidBetween>
+            <keyList>
+                <KeyValue>
+                    <Key>custom_poi</Key>
+                    <Value>festival</Value>
+                </KeyValue>
+            </keyList>
+            <Name>ØYAFESTIVALEN 2026</Name>
+            <Centroid>
+                <Location>
+                    <Longitude>10.7780921</Longitude>
+                    <Latitude>59.9162799</Latitude>
+                </Location>
+            </Centroid>
+            <Descriptor>
+                <Name>ØYAFESTIVALEN 2026</Name>
+            </Descriptor>
+            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+        </TopographicPlace>
+        <TopographicPlace id="ENT:TopographicPlace:12" version="1">
+            <ValidBetween>
+                <FromDate>2026-04-27T09:36:00</FromDate>
+                <ToDate>2026-06-07T05:00:00</ToDate>
+            </ValidBetween>
+            <keyList>
+                <KeyValue>
+                    <Key>custom_poi</Key>
+                    <Value>festival</Value>
+                </KeyValue>
+            </keyList>
+            <Name>NEON FESTIVAL 2026</Name>
+            <Centroid>
+                <Location>
+                    <Longitude>10.4440284</Longitude>
+                    <Latitude>63.4459779</Latitude>
+                </Location>
+            </Centroid>
+            <Descriptor>
+                <Name>NEON FESTIVAL 2026</Name>
+            </Descriptor>
+            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+        </TopographicPlace>
+        <TopographicPlace id="ENT:TopographicPlace:13" version="1">
+            <ValidBetween>
+                <FromDate>2026-04-27T09:39:00</FromDate>
+                <ToDate>2026-07-08T05:00:00</ToDate>
+            </ValidBetween>
+            <keyList>
+                <KeyValue>
+                    <Key>custom_poi</Key>
+                    <Value>festival</Value>
+                </KeyValue>
+            </keyList>
+            <Name>TRONDHEIM ROCKS FESTIVAL 2026</Name>
+            <Centroid>
+                <Location>
+                    <Longitude>10.4440498</Longitude>
+                    <Latitude>63.4459779</Latitude>
+                </Location>
+            </Centroid>
+            <Descriptor>
+                <Name>TRONDHEIM ROCKS FESTIVAL 2026</Name>
+            </Descriptor>
+            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+        </TopographicPlace>
+        <TopographicPlace id="ENT:TopographicPlace:14" version="1">
+            <ValidBetween>
+                <FromDate>2026-04-27T10:04:00</FromDate>
+                <ToDate>2026-06-21T04:00:00</ToDate>
+            </ValidBetween>
+            <keyList>
+                <KeyValue>
+                    <Key>custom_poi</Key>
+                    <Value>festival</Value>
+                </KeyValue>
+            </keyList>
+            <Name>OVEROSLO FESTIVAL 2026</Name>
+            <Centroid>
+                <Location>
+                    <Longitude>10.8035088</Longitude>
+                    <Latitude>59.9590528</Latitude>
+                </Location>
+            </Centroid>
+            <Descriptor>
+                <Name>OVEROSLO FESTIVAL 2026</Name>
             </Descriptor>
             <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
         </TopographicPlace>
