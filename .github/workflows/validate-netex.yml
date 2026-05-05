@@ -3,10 +3,10 @@ name: Validate NeTEx
 on:
   push:
     paths:
-      - 'festivals_netex_poi.xml'
+      - 'events_norway_poi.xml'
   pull_request:
     paths:
-      - 'festivals_netex_poi.xml'
+      - 'events_norway_poi.xml'
   workflow_dispatch:
 
 jobs:
