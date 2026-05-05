@@ -1,10 +1,10 @@
 geocoder-data
 ======
 
-festivals_netex_poi.xml
+events_norway_poi.xml
 -------
-Copied from kakka in GCS (`gs://ror-kakka-prd/tiamat/geocoder/festival_poi_netex.zip`) and
-stored here for easy access from the [geocoder download script](https://github.com/entur/geocoder/blob/main/converter/create-nominatim-data.sh#L9)
+Based on the festival poi netex from kakka in GCS (`gs://ror-kakka-prd/tiamat/geocoder/festival_poi_netex.zip`) and
+stored here for easy access from the [geocoder import config](https://github.com/entur/geocoder/blob/main/photon/import/config/sources-prod.conf).
 
 country-boundaries.osm
 --------
