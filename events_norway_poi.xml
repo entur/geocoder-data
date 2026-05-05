@@ -21,627 +21,627 @@
                 </DefaultLocale>
             </FrameDefaults>
             <topographicPlaces>
-        <TopographicPlace id="ENT:TopographicPlace:1" version="1">
-            <ValidBetween>
-                <FromDate>2026-03-01T00:00:00</FromDate>
-                <ToDate>2026-06-10T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>concert</Value>
-                </KeyValue>
-            </keyList>
-            <Name>FOO FIGHTERS Live på Unity Arena, Oslo 10. juni</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.6253457</Longitude>
-                    <Latitude>59.9026751</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>FOO FIGHTERS Live på Unity Arena, Oslo 10. juni</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:2" version="1">
-            <ValidBetween>
-                <FromDate>2026-02-01T12:00:00</FromDate>
-                <ToDate>2026-06-28T12:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>TONS OF ROCK festival Ekeberg</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.7753778</Longitude>
-                    <Latitude>59.8980314</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>TONS OF ROCK festival Ekeberg</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:3" version="1">
-            <ValidBetween>
-                <FromDate>2026-02-06T03:00:00</FromDate>
-                <ToDate>2026-04-06T03:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>INFERNO METAL FESTIVAL 2026 Oslo</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.7513773</Longitude>
-                    <Latitude>59.915542</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>INFERNO METAL FESTIVAL 2026 Oslo</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:4" version="1">
-            <ValidBetween>
-                <FromDate>2026-02-03T13:59:00</FromDate>
-                <ToDate>2026-08-03T05:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>NOTODDEN BLUES FESTIVAL 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>9.2589641</Longitude>
-                    <Latitude>59.559489</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>NOTODDEN BLUES FESTIVAL 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:5" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-01T06:02:00</FromDate>
-                <ToDate>2026-09-03T15:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>event</Value>
-                </KeyValue>
-            </keyList>
-            <Name>JAVAZONE 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>11.052171</Longitude>
-                    <Latitude>59.9502557</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>JAVAZONE 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:7" version="1">
-            <ValidBetween>
-                <FromDate>2026-02-03T14:09:00</FromDate>
-                <ToDate>2026-06-13T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>PIKNIK I PARKEN Sofienbergparken</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.7632542</Longitude>
-                    <Latitude>59.9230219</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>PIKNIK I PARKEN Sofienbergparken</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:8" version="1">
-            <ValidBetween>
-                <FromDate>2026-02-03T14:13:00</FromDate>
-                <ToDate>2026-07-05T04:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>KARPE WORLD festival Ekeberg</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.775013</Longitude>
-                    <Latitude>59.8953947</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>KARPE WORLD festival Ekeberg</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:9" version="1">
-            <ValidBetween>
-                <FromDate>2026-02-03T14:16:00</FromDate>
-                <ToDate>2026-02-28T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>event</Value>
-                </KeyValue>
-            </keyList>
-            <Name>MGP-FINALEN Lillehammer</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.472669</Longitude>
-                    <Latitude>61.1235449</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>MGP-FINALEN Lillehammer</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:10" version="1">
-            <ValidBetween>
-                <FromDate>2026-04-27T09:33:00</FromDate>
-                <ToDate>2026-08-03T05:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>Hovigs Hangar NOTODDEN BLUES FESTIVAL 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>9.2601979</Longitude>
-                    <Latitude>59.5589678</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>Hovigs Hangar NOTODDEN BLUES FESTIVAL 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:11" version="1">
-            <ValidBetween>
-                <FromDate>2026-04-27T09:34:00</FromDate>
-                <ToDate>2026-08-16T05:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>ØYAFESTIVALEN 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.7780921</Longitude>
-                    <Latitude>59.9162799</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>ØYAFESTIVALEN 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:12" version="1">
-            <ValidBetween>
-                <FromDate>2026-04-27T09:36:00</FromDate>
-                <ToDate>2026-06-07T05:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>NEON FESTIVAL 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.4440284</Longitude>
-                    <Latitude>63.4459779</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>NEON FESTIVAL 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:13" version="1">
-            <ValidBetween>
-                <FromDate>2026-04-27T09:39:00</FromDate>
-                <ToDate>2026-07-08T05:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>TRONDHEIM ROCKS FESTIVAL 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.4440498</Longitude>
-                    <Latitude>63.4459779</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>TRONDHEIM ROCKS FESTIVAL 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:14" version="1">
-            <ValidBetween>
-                <FromDate>2026-04-27T10:04:00</FromDate>
-                <ToDate>2026-06-21T04:00:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>OVEROSLO FESTIVAL 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.8035088</Longitude>
-                    <Latitude>59.9590528</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>OVEROSLO FESTIVAL 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:15" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-06-10T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>FESTSPILLENE I BERGEN 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>5.32807</Longitude>
-                    <Latitude>60.38886</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>FESTSPILLENE I BERGEN 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:16" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-06-13T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>BERGENFEST Bergenhus festning</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>5.3186665</Longitude>
-                    <Latitude>60.3991111</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>BERGENFEST Bergenhus festning</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:17" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-06-06T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>VAULEN OPEN AIR Stavanger</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>5.74896</Longitude>
-                    <Latitude>58.92418</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>VAULEN OPEN AIR Stavanger</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:18" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-07-04T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>KONGSBERG JAZZFESTIVAL 2026</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>9.6498</Longitude>
-                    <Latitude>59.6685</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>KONGSBERG JAZZFESTIVAL 2026</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:19" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-06-27T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>PALMESUS Bystranda, Kristiansand</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>8.00710</Longitude>
-                    <Latitude>58.14600</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>PALMESUS Bystranda, Kristiansand</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:20" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-07-04T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>STAVERNFESTIVALEN Fritzøe Gård, Larvik</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.00950</Longitude>
-                    <Latitude>59.03308</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>STAVERNFESTIVALEN Fritzøe Gård, Larvik</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:21" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-07-18T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>MOLDEJAZZ 2026 Molde</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>7.15081</Longitude>
-                    <Latitude>62.73968</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>MOLDEJAZZ 2026 Molde</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:22" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-07-10T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>SLOTTSFJELL Kaldnes, Tønsberg</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.40002</Longitude>
-                    <Latitude>59.26455</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>SLOTTSFJELL Kaldnes, Tønsberg</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:23" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-08-03T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>OLAVSFEST Trondheim</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.3974</Longitude>
-                    <Latitude>63.4271</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>OLAVSFEST Trondheim</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:24" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-08-23T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>PARKENFESTIVALEN Bodø</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>14.4029109</Longitude>
-                    <Latitude>67.2827757</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>PARKENFESTIVALEN Bodø</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:25" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-08-22T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>FEELINGS FESTIVAL Koengen, Bergen</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>5.31991</Longitude>
-                    <Latitude>60.40034</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>FEELINGS FESTIVAL Koengen, Bergen</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:26" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-08-22T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>PSTEREO Marinen, Trondheim</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.39833</Longitude>
-                    <Latitude>63.42530</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>PSTEREO Marinen, Trondheim</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:27" version="1">
-            <ValidBetween>
-                <FromDate>2025-08-15T00:00:00</FromDate>
-                <ToDate>2025-08-16T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>FINDINGS FESTIVAL Bislett Stadion, Oslo</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>10.73336</Longitude>
-                    <Latitude>59.92493</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>FINDINGS FESTIVAL Bislett Stadion, Oslo</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
-        <TopographicPlace id="ENT:TopographicPlace:28" version="1">
-            <ValidBetween>
-                <FromDate>2026-05-05T00:00:00</FromDate>
-                <ToDate>2026-08-29T23:59:00</ToDate>
-            </ValidBetween>
-            <keyList>
-                <KeyValue>
-                    <Key>custom_poi</Key>
-                    <Value>festival</Value>
-                </KeyValue>
-            </keyList>
-            <Name>UTOPIA Bjergstedparken, Stavanger</Name>
-            <Centroid>
-                <Location>
-                    <Longitude>5.71936</Longitude>
-                    <Latitude>58.97709</Latitude>
-                </Location>
-            </Centroid>
-            <Descriptor>
-                <Name>UTOPIA Bjergstedparken, Stavanger</Name>
-            </Descriptor>
-            <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
-        </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:1" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-03-01T00:00:00</FromDate>
+                        <ToDate>2026-06-10T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>concert</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>FOO FIGHTERS Live på Unity Arena, Oslo 10. juni</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.6253457</Longitude>
+                            <Latitude>59.9026751</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>FOO FIGHTERS Live på Unity Arena, Oslo 10. juni</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:2" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-02-01T12:00:00</FromDate>
+                        <ToDate>2026-06-28T12:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>TONS OF ROCK festival Ekeberg</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.7753778</Longitude>
+                            <Latitude>59.8980314</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>TONS OF ROCK festival Ekeberg</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:3" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-02-06T03:00:00</FromDate>
+                        <ToDate>2026-04-06T03:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>INFERNO METAL FESTIVAL 2026 Oslo</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.7513773</Longitude>
+                            <Latitude>59.915542</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>INFERNO METAL FESTIVAL 2026 Oslo</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:4" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-02-03T13:59:00</FromDate>
+                        <ToDate>2026-08-03T05:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>NOTODDEN BLUES FESTIVAL 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>9.2589641</Longitude>
+                            <Latitude>59.559489</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>NOTODDEN BLUES FESTIVAL 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:5" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-01T06:02:00</FromDate>
+                        <ToDate>2026-09-03T15:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>event</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>JAVAZONE 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>11.052171</Longitude>
+                            <Latitude>59.9502557</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>JAVAZONE 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:7" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-02-03T14:09:00</FromDate>
+                        <ToDate>2026-06-13T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>PIKNIK I PARKEN Sofienbergparken</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.7632542</Longitude>
+                            <Latitude>59.9230219</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>PIKNIK I PARKEN Sofienbergparken</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:8" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-02-03T14:13:00</FromDate>
+                        <ToDate>2026-07-05T04:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>KARPE WORLD festival Ekeberg</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.775013</Longitude>
+                            <Latitude>59.8953947</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>KARPE WORLD festival Ekeberg</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:9" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-02-03T14:16:00</FromDate>
+                        <ToDate>2026-02-28T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>event</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>MGP-FINALEN Lillehammer</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.472669</Longitude>
+                            <Latitude>61.1235449</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>MGP-FINALEN Lillehammer</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:10" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-04-27T09:33:00</FromDate>
+                        <ToDate>2026-08-03T05:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>Hovigs Hangar NOTODDEN BLUES FESTIVAL 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>9.2601979</Longitude>
+                            <Latitude>59.5589678</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>Hovigs Hangar NOTODDEN BLUES FESTIVAL 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:11" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-04-27T09:34:00</FromDate>
+                        <ToDate>2026-08-16T05:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>ØYAFESTIVALEN 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.7780921</Longitude>
+                            <Latitude>59.9162799</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>ØYAFESTIVALEN 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:12" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-04-27T09:36:00</FromDate>
+                        <ToDate>2026-06-07T05:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>NEON FESTIVAL 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.4440284</Longitude>
+                            <Latitude>63.4459779</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>NEON FESTIVAL 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:13" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-04-27T09:39:00</FromDate>
+                        <ToDate>2026-07-08T05:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>TRONDHEIM ROCKS FESTIVAL 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.4440498</Longitude>
+                            <Latitude>63.4459779</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>TRONDHEIM ROCKS FESTIVAL 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:14" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-04-27T10:04:00</FromDate>
+                        <ToDate>2026-06-21T04:00:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>OVEROSLO FESTIVAL 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.8035088</Longitude>
+                            <Latitude>59.9590528</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>OVEROSLO FESTIVAL 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:15" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-06-10T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>FESTSPILLENE I BERGEN 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>5.32807</Longitude>
+                            <Latitude>60.38886</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>FESTSPILLENE I BERGEN 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:16" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-06-13T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>BERGENFEST Bergenhus festning</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>5.3186665</Longitude>
+                            <Latitude>60.3991111</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>BERGENFEST Bergenhus festning</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:17" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-06-06T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>VAULEN OPEN AIR Stavanger</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>5.74896</Longitude>
+                            <Latitude>58.92418</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>VAULEN OPEN AIR Stavanger</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:18" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-07-04T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>KONGSBERG JAZZFESTIVAL 2026</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>9.6498</Longitude>
+                            <Latitude>59.6685</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>KONGSBERG JAZZFESTIVAL 2026</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:19" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-06-27T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>PALMESUS Bystranda, Kristiansand</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>8.00710</Longitude>
+                            <Latitude>58.14600</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>PALMESUS Bystranda, Kristiansand</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:20" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-07-04T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>STAVERNFESTIVALEN Fritzøe Gård, Larvik</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.00950</Longitude>
+                            <Latitude>59.03308</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>STAVERNFESTIVALEN Fritzøe Gård, Larvik</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:21" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-07-18T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>MOLDEJAZZ 2026 Molde</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>7.15081</Longitude>
+                            <Latitude>62.73968</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>MOLDEJAZZ 2026 Molde</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:22" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-07-10T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>SLOTTSFJELL Kaldnes, Tønsberg</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.40002</Longitude>
+                            <Latitude>59.26455</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>SLOTTSFJELL Kaldnes, Tønsberg</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:23" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-08-03T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>OLAVSFEST Trondheim</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.3974</Longitude>
+                            <Latitude>63.4271</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>OLAVSFEST Trondheim</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:24" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-08-23T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>PARKENFESTIVALEN Bodø</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>14.4029109</Longitude>
+                            <Latitude>67.2827757</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>PARKENFESTIVALEN Bodø</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:25" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-08-22T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>FEELINGS FESTIVAL Koengen, Bergen</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>5.31991</Longitude>
+                            <Latitude>60.40034</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>FEELINGS FESTIVAL Koengen, Bergen</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:26" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-08-22T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>PSTEREO Marinen, Trondheim</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.39833</Longitude>
+                            <Latitude>63.42530</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>PSTEREO Marinen, Trondheim</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:27" version="1">
+                    <ValidBetween>
+                        <FromDate>2025-08-15T00:00:00</FromDate>
+                        <ToDate>2025-08-16T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>FINDINGS FESTIVAL Bislett Stadion, Oslo</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>10.73336</Longitude>
+                            <Latitude>59.92493</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>FINDINGS FESTIVAL Bislett Stadion, Oslo</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
+                <TopographicPlace id="ENT:TopographicPlace:28" version="1">
+                    <ValidBetween>
+                        <FromDate>2026-05-05T00:00:00</FromDate>
+                        <ToDate>2026-08-29T23:59:00</ToDate>
+                    </ValidBetween>
+                    <keyList>
+                        <KeyValue>
+                            <Key>custom_poi</Key>
+                            <Value>festival</Value>
+                        </KeyValue>
+                    </keyList>
+                    <Name>UTOPIA Bjergstedparken, Stavanger</Name>
+                    <Centroid>
+                        <Location>
+                            <Longitude>5.71936</Longitude>
+                            <Latitude>58.97709</Latitude>
+                        </Location>
+                    </Centroid>
+                    <Descriptor>
+                        <Name>UTOPIA Bjergstedparken, Stavanger</Name>
+                    </Descriptor>
+                    <TopographicPlaceType>placeOfInterest</TopographicPlaceType>
+                </TopographicPlace>
             </topographicPlaces>
         </SiteFrame>
     </dataObjects>
